@@ -27,8 +27,8 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 
 1.  **Projeyi klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI-ADIN/PROJE-ADIN.git](https://github.com/KULLANICI-ADIN/PROJE-ADIN.git)
-    cd PROJE-ADIN
+    git clone [https://github.com/Senturk61/Turkce_Duygu_Analizi.git](https://github.com/Senturk61/Turkce_Duygu_Analizi.git)
+    cd Turkce_Duygu_Analizi
     ```
     *(NOT: Yukarıdaki linki kendi GitHub linkinle değiştirmeyi unutma.)*
 
